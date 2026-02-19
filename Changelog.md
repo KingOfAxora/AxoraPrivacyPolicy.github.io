@@ -1,6 +1,6 @@
-#Version 1.1.1 - 2/17/2026
+# Version 1.1.1 - 2/17/2026
 
-# Bug Fixes
+## Bug Fixes
 
 Corrected an issue where scrolling would open the Navigation Drawer.
 
