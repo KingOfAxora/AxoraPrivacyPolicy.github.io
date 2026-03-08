@@ -12,6 +12,10 @@ Made new Combat Tab
 
 Updatd Inventory Tab to include an Import function for Equipment Packs
 
+## Bug Fixes:
+
+All pages will now remain loaded so switching tabs does not delete data.
+
 # Version 1.1.1 - 2/17/2026
 
 ## Bug Fixes
