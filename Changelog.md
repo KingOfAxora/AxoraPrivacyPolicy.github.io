@@ -1,3 +1,17 @@
+# Version 2.0.0
+
+## Changes:
+
+Made the Spells menu significantly more intuitive. 
+
+Added spots for Hit Dice, Spell Attack Modifier, and Spell Save DC
+
+Renamed old Combat Tab to Features
+
+Made new Combat Tab
+
+Updatd Inventory Tab to include an Import function for Equipment Packs
+
 # Version 1.1.1 - 2/17/2026
 
 ## Bug Fixes
